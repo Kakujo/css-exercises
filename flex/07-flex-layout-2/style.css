@@ -5,9 +5,14 @@ body {
 }
 
 .header {
-  height: 72px;
+  height: 32px;
   background: darkmagenta;
   color: white;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: bold;
 }
 
 .footer {
